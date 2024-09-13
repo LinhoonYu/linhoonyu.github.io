@@ -1,0 +1,58 @@
+{
+  "hash": "e6e202b5",
+  "configHash": "15288ec9",
+  "lockfileHash": "607142ee",
+  "browserHash": "8a172565",
+  "optimized": {
+    "mark.js/src/vanilla.js": {
+      "src": "../../../../node_modules/.pnpm/mark.js@8.11.1/node_modules/mark.js/src/vanilla.js",
+      "file": "mark__js_src_vanilla__js.js",
+      "fileHash": "be70727c",
+      "needsInterop": false
+    },
+    "@vueuse/integrations/useFocusTrap": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+integrations@11.0.3_focus-trap@7.6.0_vue@3.5.4_typescript@5.6.2_/node_modules/@vueuse/integrations/useFocusTrap.mjs",
+      "file": "@vueuse_integrations_useFocusTrap.js",
+      "fileHash": "a4573279",
+      "needsInterop": false
+    },
+    "minisearch": {
+      "src": "../../../../node_modules/.pnpm/minisearch@7.1.0/node_modules/minisearch/dist/es/index.js",
+      "file": "minisearch.js",
+      "fileHash": "ff9b49be",
+      "needsInterop": false
+    },
+    "@vue/devtools-api": {
+      "src": "../../../../node_modules/.pnpm/@vue+devtools-api@6.6.4/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "@vue_devtools-api.js",
+      "fileHash": "94591944",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "src": "../../../../node_modules/.pnpm/@vuepress+shared@2.0.0-rc.15/node_modules/@vuepress/shared/dist/index.js",
+      "file": "@vuepress_shared.js",
+      "fileHash": "e3a29cfb",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../../../node_modules/.pnpm/vue@3.5.4_typescript@5.6.2/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "c61c0a06",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../../../node_modules/.pnpm/vue-router@4.4.4_vue@3.5.4_typescript@5.6.2_/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "file": "vue-router.js",
+      "fileHash": "271012f4",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-EWBUVSMX": {
+      "file": "chunk-EWBUVSMX.js"
+    },
+    "chunk-QYQIBODO": {
+      "file": "chunk-QYQIBODO.js"
+    }
+  }
+}
