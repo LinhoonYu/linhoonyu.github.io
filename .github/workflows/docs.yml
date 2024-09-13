@@ -30,7 +30,7 @@ jobs:
           # 选择要使用的 node 版本
           node-version: 22
 
-      # 运行构建脚本
+      # 运行构建脚本1
       # Run the build script
       - name: Build VuePress site
         run: pnpm run docs:build
